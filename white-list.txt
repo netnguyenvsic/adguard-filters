@@ -1,9 +1,7 @@
+@@||accounts.fpts.com.vn
+@@||eztrade.fpts.com.vn
 @@||tradingview.com^
 @@||vndirect.com.vn
-@@||fireant.vn^
-@@||restv2.fireant.vn^
-@@||notiv2.vndirect.com.vn^
-@@||price-streaming-api.vndirect.com.vn^
 @@||exmarkets.guide^
 @@||exness.com^
 @@||exness.io^
@@ -11,9 +9,7 @@
 @@||digitalcardservice.com^
 @@||liobank.vn^
 @@||momo.vn^
-@@||rophim.me^
-@@||rophimapi.net^
-@@||rofilm.net^
+@@||rophim.nl^
 @@||nutscdn.com^
 @@||netflix.com^
 @@||nflxvideo.net^
