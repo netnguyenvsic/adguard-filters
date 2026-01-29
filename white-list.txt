@@ -1,5 +1,5 @@
-@@||accounts.fpts.com.vn
-@@||eztrade.fpts.com.vn
+@@||accounts.fpts.com.vn^
+@@||eztrade.fpts.com.vn^
 @@||tradingview.com^
 @@||vndirect.com.vn
 @@||exmarkets.guide^
@@ -14,8 +14,8 @@
 @@||netflix.com^
 @@||nflxvideo.net^
 @@||nflxso.net^
-@@||canva.com/s/designs
-@@||canva.com
+@@||canva.com/s/designs^
+@@||canva.com^
 @@||facebook.com^
 @@||fbcdn.net^
 @@||messenger.com^
