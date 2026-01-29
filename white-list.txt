@@ -14,7 +14,8 @@
 @@||netflix.com^
 @@||nflxvideo.net^
 @@||nflxso.net^
-
+@@||canva.com/s/designs
+@@||canva.com
 @@||facebook.com^
 @@||fbcdn.net^
 @@||messenger.com^
