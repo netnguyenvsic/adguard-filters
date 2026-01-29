@@ -1,7 +1,7 @@
 @@||accounts.fpts.com.vn^
 @@||eztrade.fpts.com.vn^
 @@||tradingview.com^
-@@||vndirect.com.vn
+@@||vndirect.com.vn^
 @@||exmarkets.guide^
 @@||exness.com^
 @@||exness.io^
