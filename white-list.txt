@@ -35,7 +35,7 @@
 @@||fonts.googleapis.com^
 @@||accounts.youtube.com^
 @@||googleusercontent.com^
-@@||ggpht.com^
+
 @@||gmail.com^
 @@||gstatic.com^
 
